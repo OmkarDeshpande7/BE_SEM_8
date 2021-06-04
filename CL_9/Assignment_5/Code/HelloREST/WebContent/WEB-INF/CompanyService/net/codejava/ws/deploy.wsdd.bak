@@ -1,0 +1,60 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from CompanyService WSDL service -->
+
+  <service name="Company" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://ws.codejava.net"/>
+      <parameter name="wsdlServiceElement" value="CompanyService"/>
+      <parameter name="schemaQualified" value="http://json.org,http://ws.codejava.net"/>
+      <parameter name="wsdlServicePort" value="Company"/>
+      <parameter name="className" value="net.codejava.ws.CompanySoapBindingImpl"/>
+      <parameter name="wsdlPortType" value="Company"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation name="getlist" qname="operNS:getlist" xmlns:operNS="http://ws.codejava.net" returnQName="retNS:getlistReturn" xmlns:retNS="http://ws.codejava.net" returnType="rtns:JSONArray" xmlns:rtns="http://json.org" soapAction="" >
+      </operation>
+      <parameter name="allowedMethods" value="getlist"/>
+
+      <typeMapping
+        xmlns:ns="http://ws.codejava.net"
+        qname="ns:>getlistResponse"
+        type="java:net.codejava.ws.GetlistResponse"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://json.org"
+        qname="ns:JSONObject"
+        type="java:org.json.JSONObject"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://ws.codejava.net"
+        qname="ns:>getlist"
+        type="java:net.codejava.ws.Getlist"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://json.org"
+        qname="ns:JSONArray"
+        type="java:org.json.JSONArray"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+  </service>
+</deployment>

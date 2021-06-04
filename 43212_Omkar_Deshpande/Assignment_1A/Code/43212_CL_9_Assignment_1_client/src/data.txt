@@ -1,0 +1,340 @@
+Standard English
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+In an English-speaking country, Standard English (SE) is the variety of English that has undergone substantial regularisation and is associated with formal schooling, language assessment, and official print publications, such as public service announcements and newspapers of record, etc.[1] It is local to nowhere: its grammatical and lexical components are no longer regionally marked, although many of them originated in different, non-adjacent dialects, and it has very little of the variation found in spoken or earlier written varieties of English.  According to Trudgill,[2] Standard English is a dialect pre-eminently used in writing that is largely distinguishable from other English dialects by means of its grammar.
+
+The term "Standard" refers to the regularisation of the grammar, spelling, usages of the language, and not to minimal desirability or interchangeability (e.g. a standard measure).[3] All linguistic features are relevant to standardisation, including morphology, phonology, syntax, lexicon, register, discourse markers, pragmatics, as well as written features such as spelling conventions, punctuation, capitalisation and abbreviation practices.
+
+There are substantial differences among the language varieties that countries of the Anglosphere identify as "standard English"; in England and Wales, the term Standard English identifies British English, the Received Pronunciation accent, and the grammar and vocabulary of United Kingdom Standard English (UKSE). In Scotland, the variety is Scottish Standard English; in the United States, the General American variety is the spoken standard; and in Australia, the standard English is General Australian.[4] Sociologically, as the standard language of the nation, Standard English is generally associated with education and sociolinguistic prestige, but is not inherently superior to other dialects of English used by an Anglophone society.[5]
+
+
+Contents
+1	Definitions
+2	Grammar
+3	The Origins of Standard English
+3.1	Present-day investigations into the origins of Standard English
+3.2	Before Standard English: Late West Saxon
+3.3	Before Standard English: mixed language
+3.4	Before Standard English: Middle English
+3.5	Before Standard English: the demise of Anglo-Norman
+3.6	Before Standard English: supralocal varieties of English
+4	From Supralocal Varities to Standard English
+5	Superseded explanations of English standardisation
+5.1	a.  East Midlands
+5.2	b.  Central Midlands
+5.3	c.  Types I-IV
+5.4	d.  Chancery Standard
+6	Vocabulary
+7	Spelling
+8	See also
+9	Notes
+10	Bibliography
+11	External links
+Definitions
+Although a standard English is generally used in public and official communications and settings, there is a range of registers (stylistic levels), such as those for journalism (print, television, internet) and for academic publishing (monographs, academic papers, internet). The distinction among registers also exists between the spoken and the written forms of SE, which are characterised by degrees of formality; therefore, Standard English is distinct from formal English, because it features stylistic variations, ranging from casual to formal.[6] Furthermore, the usage codes of nonstandard dialects (vernacular language) are less stabilized than the codifications of Standard English, and thus more readily accept and integrate new vocabulary and grammatical forms. Functionally, the national varieties of SE are characterized by generally accepted rules, often grammars established by linguistic prescription in the 18th century.[7]
+
+English originated in England during the Anglo-Saxon period, and is now spoken as a first or second language in many countries of the world, many of which have developed one or more "national standards" (though this does not refer to published standards documents, but to frequency of consistent usage). English is the first language of the majority of the population in a number of countries, including the United Kingdom, the United States, Canada, Republic of Ireland, Australia, New Zealand, Jamaica, Trinidad and Tobago, the Bahamas and Barbados and is an official language in many others, including India, Pakistan, the Philippines, South Africa and Nigeria; each country has a standard English with a grammar, spelling and pronunciation particular to the local culture.
+
+As the result of colonisation and historical migrations of English-speaking populations, and the predominant use of English as the international language of trade and commerce (a lingua franca), English has also become the most widely used second language.[8] Countries in which English is neither indigenous nor widely spoken as an additional language may import a variety of English via instructional materials (typically English English or North American English) and thus considered it "standard" for teaching and assessment purposes.[9] Typically, British English is taught as standard across Europe, the Caribbean, sub-Saharan Africa, and South Asia, and American English is taught as standard across Latin America and East Asia. This does, however, vary between regions and individual teachers. In some areas a pidgin or creole language blends English with one or more native languages.
+
+Grammar
+Main article: English grammar
+Although the standard Englishes of the anglophone countries are similar, there are minor grammatical differences and divergences of vocabulary among the varieties. In American and Australian English, for example, "sunk" and "shrunk" as past-tense forms of "sink" and "shrink" are acceptable as standard forms, whereas standard British English retains the past-tense forms of "sank" and "shrank".[10] In Afrikaner South African English, the deletion of verbal complements is becoming common. This phenomenon sees the objects of transitive verbs being omitted: "Did you get?", "You can put in the box".[11] This kind of construction is infrequent in most other standardized varieties of English.
+
+The Origins of Standard English
+In the past, different scholars have meant different things by the phrase ‘Standard English’, when describing its emergence in medieval and early modern England. In the nineteenth century it tended to be used in relation to the wordstock.  Nineteenth-century scholars Earle[12] and Kington-Oliphant[13] conceived of the standardisation of English in terms of ratios of Romance to Germanic vocabulary.  Earle claimed that the works of the poets Gower and Chaucer, for instance, were written in what he called ‘standard language’ because of their amounts of French-derived vocabulary.
+
+Subsequently, attention shifted to the regional distribution of phonemes.  Morsbach,[14] Heuser[15] and Ekwall[16] conceived of standardisation largely as relating to sound-change, especially as indicated by spellings for vowels in stressed syllables, with a lesser emphasis on morphology.
+
+Mid-twentieth-century scholars McIntosh and Samuels[17] continued to focus on the distribution of spelling practice but as primary artefacts, which are not necessarily evidence of underlying articulatory reality. Their work led to the publication the Linguistic Atlas of Late Mediaeval English,[18] which aims to describe dialectal variation in Middle English between 1350 and 1450. The final date was chosen to reflect the increasing standardisation of written English. Although as they note, “The dialects of the spoken language did not die out, but those of the written language did”.
+
+A number of late twentieth-century scholars tracked morphemes as they standardised, such as auxiliary do,[19] third-person present-tense -s, you/thou,[20] the wh- pronouns, and single negation,[21] multiple negation being common in Old and Middle English and remaining so in spoken regional varieties of English.
+
+Present-day investigations into the origins of Standard English
+In the twenty-first century, scholars consider all of the above and more, including the rate of standardisation across different text-types such as administrative documents;[22][23][24][25] the role of the individual in spreading standardisation;[26][27] the influence of multilingual and mixed-language writing; the influence of the Book of Common Prayer;[28] standardisation of the wordstock;[29] evolution of technical registers;[30] standardisation of morphemes;[31] standardisation of letter-graphs,[32][33] and the partial standardisation of Older Scots.[34]
+
+Before Standard English: Late West Saxon
+After the unification of the Anglo-Saxon kingdoms by Alfred the Great and his successors, the West Saxon variety of Old English began to influence writing practices in other parts of England.  The first variety of English to be called a “standard literary language”[35] was the West Saxon variety of Old English.  
+
+However, Kornexl[36] defines the classification of Late West Saxon Standard as rather constituting a set of orthographic norms than a standardised dialect, as there was no such thing as standardisation of Old English in the modern sense: Old English did not standardise in terms of reduction of variation, reduction of regional variation, selection of word-stock, standardisation of morphology or syntax, or use of one dialect for all written purposes everywhere.  
+
+The Norman Conquest of 1066 then caused people to stop writing in Old English.
+
+Before Standard English: mixed language
+Following the changes brought about by the Norman Conquest of 1066, England became a trilingual society.  Literate people wrote in Medieval Latin and Anglo-Norman French more than they wrote in monolingual English.  In addition, a widely-used system developed which mixed several languages together, typically with Medieval Latin as the grammatical basis, adding in nouns, noun-modifiers, compound-nouns, verb-stems and -ing forms from Anglo-Norman French and Middle English.  This mixing of Medievel Latin, Anglo-Norman French and Middle English in a grammatically regular system is known to modern scholars[37][38][39] as ‘mixed-language’, and it became the later fourteenth and fifteenth-century norm for accounts, inventories, testaments and personal journals.
+
+The mixed-language system was abandoned over the fifteenth century, and at different times in different places it became replaced by monolingual supralocal English, although it was not always a straightforward exchange.  For example, Alcolado-Carnicero[40] surveyed the London Mercers’ Livery Company Wardens’ Accounts and found that they switched back and forth for over seventy years between 1390 and 1464 before finally committing to monolingual English.
+
+Individual scribes spent whole careers in the mixed-language stage, with no knowledge that monolingual Engish would be the eventual outcome and that it was in fact a stage of transition.  For much of the fourteenth and fifteenth centuries, writing in mixed-language was the professional norm in money-related text types, providing a conduit for the borrowing of Anglo-Norman vocabulary into English.
+
+Before Standard English: Middle English
+From the 1370s monolingual Middle English was used increasingly, mainly for local communication.  Up until the later fifteenth century it was characterised by great regional and spelling variation.  After the middle of the fifteenth century, supralocal monolingual varities of English began to evolve for numerous pragmatic functions.[41]
+
+Supralocalisation is where “dialect features with a limited geographical distribution are replaced by features with a wider distribution”.[42]
+
+Over the later fifteenth century, individuals began to restrict their spelling ratios, selecting fewer variants.[27]
+
+However each scribe made individual selections so that the pool of possible variants per feature still remained wide at the turn of the sixteenth century.[25]
+
+Thus, the early stage of standardisation can be identified by reduction of grammatical and orthographical variants and loss of geographically-marked variants in the writing of individuals.
+
+Before Standard English: the demise of Anglo-Norman
+The rise of written monolingual English was due to the abandonment of Anglo-Norman French in the last quarter of the fourteenth century and first quarter of the fifteenth, with subsequent absorption into supralocal varieties of English of much of its wordstock and many of its written conventions.  Some of these conventions were to last, such as minimal spelling variation, and some were not, such as digraph <lx> and trigraph <aun>.[43]
+
+Anglo-Norman was the variety of French that was widely used by the educated classes in late medieval England. It was used, for example, as the teaching language in grammar schools. For example, the Benedictine monk Ranulph Higden, who wrote the widely copied historical chronicle Polychronicon, remarks against the practice of other nations, English children learn Latin grammar in French.  Ingham[44] analysed how Anglo-Norman syntax and morphology written in Britain began to differ from Anglo-Norman syntax and morphology written on the Continent from the 1370s onwards, until the language fell out of use in Britain in the 1430s.
+
+Ingham shows that after the last quarter of the fourteenth century Anglo-Norman written in England displayed the kind of grammatical levelling which occurs as the result of language acquired in adulthood, and deduces that the use of Anglo-Norman in England as a spoken vehicle for teaching in childhood must have ceased around the end of the fourteenth century.  Schipor[23] found that of the 7,070 Hampshire administrative (episcopal, municipal, manorial) documents she looked at written 1399-1525, Anglo-Norman ceased to be used after 1425.
+
+The pragmatic function for which Anglo-Norman had been used – largely administering money – became replaced by monolingual English or Latin.  Wright[43] suggests that the reason for the abandonment of Anglo-Norman towards the end of the fourteenth century and consequent absorption of many of its written features into written English lay in the socioeconomic improvement of the poorer, monolingually English-speaking classes over that century.
+
+Before Standard English: supralocal varieties of English
+When monolingual English replaced Anglo-Norman French, it took over its pragmatic functions too.  Stenroos,[25] surveying the Middle English Local Documents corpus containing 2,017 texts from 766 different locations around England written 1399-1525, found that language choice was conditioned by the readership or audience: if the text was aimed at professionals, then the text was written in Latin; if it was aimed at non-professionals, then the text was written in Anglo-Norman until the mid fifteenth century and either Latin or English thereafter.  Stenroos details the sort of more oral, less predictable texts that were aimed at non-professionals as correspondence, ordinances, oaths, conditions of obligation and occasional leases and sales.
+
+The supralocal varieties of English which replaced Anglo-Norman in the late fifteenth century were still regional, but less so than fourteenth-century Middle English had been, particularly with regard to morphemes, closed-class words and spelling sequences.  For example, Thengs[22] showed urban-hopping of less regionally-marked features in texts from Cheshire and Staffordshire (‘urban-hopping’ refers to texts copied in cities being more standardised than those copied in smaller towns and villages, which contained more local dialect features); Fernández Cuesta[45] found a lower frequency of regionally-marked spellings in wills from urban York versus those from rural Swaledale; and Bergstrøm[24] found that texts from Cambridgewere less regionally marked than those from the surrounding Midlands and East Anglian areas.
+
+However these late fifteenth and sixteenth-century supralocal varieties of English were not yet standardised.  Medieval Latin, Anglo-Norman and mixed-language set a precedent model, as Latin and French had long been conventionalised on the page and their range of variation was limited.  Supralocal varieties of English took on this uniformity by reducing more regionally-marked features, and permitting only one or two minor variants.
+
+From Supralocal Varities to Standard English
+Later fifteenth and sixteenth-century supralocalisation was facilitated by increased trade networks.[46]
+
+As people in cities and towns increasingly did business with each other, words, morphemes and spelling-sequences were transferred around the country by means of speaker-contact, writer-contact and the repeat back-and-forth encounters inherent in trading activity, from places of greater density to those of lower.  Communities of practice such as accountants auditing income and outgoings, merchants keeping track of wares and payments, and lawyers writing letters on behalf of clients, led to the development of specific writing conventions for specific spheres of activity.  Conde Silvestre[26] found that English letter-writers 1424-1474 in one community of practice (estate administrators) reduced spelling variation in words of Romance origin but not in words of English origin, reflecting the pragmatics of law and administration, which had previously been the domain of Anglo-Norman and mixed-language.
+
+This shows that reduction of variation in supralocal varieties of English was due to the influence of Anglo-Norman and mixed-language: when English took over their pragmatic roles, it also took on their quality of spelling uniformity. Romero Barranco[31] found that members of the gentry and professionals, in contradistinction to the nobility and lower commoners, were the main users of French suffixes in his survey of the Parsed Corpus of Early English Correspondence, 1410-1681.
+
+This finding that the middling classes uptook French elements into English first is in keeping with Conde Silvestre’s[26] estate administrators’ reduction of spelling variation in words of French origin: in both cases, the literate professional classes ported Anglo-Norman writing conventions into their English.
+
+Standard English was not to settle into its present form until the early nineteenth century. It contains elements from different geographical regions, described by Kitson[47] as “an urban amalgam drawing on non-adjacent dialects”.
+
+Examples of multiregional morphemes are auxiliary do from south-western dialects and third-person present tense -s and plural are from northern ones.[41]  An example of multiregional spelling is provided by the reflex of Old English /y(:)/: according to Jordan,[48] Old English /y(:)/ was written as <i> in the north and north-east Midlands, <u> in the south and south-west Midlands, and <e> in the south-east and south-east Midlands (although see Kitson[47] for critical discussion).  Standard English retains multiregional <i, u, e> spellings such as cudgel (Old English cycgel), bridge (Old English brycg), merry (Old English myrig).    
+
+Unlike earlier twentieth-century histories of standardisation (see below), it is no longer felt necessary to posit unevidenced migrations of peoples to account for movement of words, morphemes and spelling conventions from the provinces into Standard English. Such multiregionalisms in Standard English are explained by the fifteenth-century countrywide expansion of business, trade and commerce, with linguistic elements passed around communities of practice and along weak-tie trade networks, both orally and in writing.
+
+Superseded explanations of English standardisation
+Although the following hypotheses have now been superseded, they still prevail in literature aimed at students.  However more recent handbook accounts such as Schaeffer[49] and Beal[50] explain that they are insufficient.
+
+a.  East Midlands
+Ekwall[16] hypothesised that Standard English developed from the language of upper-class East Midland merchants who influenced speakers in the City of London.
+
+By ‘language’, Ekwall stipulated just certain <a> graphs and <e> letter-graphs in stressed syllables, present plural suffix -e(n, present participle suffix -ing, and pronoun they, which he thought could not be East Saxon and so must be from eastern Anglian territory.  He therefore examined locative surnames in order to discover whether people bearing names originating from settlements in the East Midlands (in which he included East Anglia) migrated to London between the Norman Conquest of 1066 and 1360.  By this method, he found that most Londoners who bore surnames from elsewhere indicated an origin in London’s hinterland, not from East Anglia or the East Midlands.  Nevertheless he hypothesised that East Midlands upper-class speakers did affect the speech of the upper classes in London.  He thought that upper-class speech would have been influential, although he also suggested influence from the Danelaw in general.  Thus his dataset was very limited, by ‘standard’ he meant a few spellings and morphemes rather than a dialect per se, his data did not support migration from the East Midlands, and he made unsupported assumptions about the influence of the speech of the upper classes (details in Wright[51]).
+
+b.  Central Midlands
+Samuels[17] criticised Ekwall’s East Midlands hypothesis.
+
+He shifted Ekwall’s hypothesis from the East to the Central Midlands, he classified late medieval London and other texts into Types I-IV, and he introduced the label ‘Chancery Standard’ to describe writing from the King’s Office of Chancery, which he claimed was the precursor of Standard English.  Samuels did not question Ekwall’s original assumption that there must have been a migration from somewhere north of London to account for certain <a> graphs and <e> letter-graphs in stressed syllables, present plural suffix -e(n, present participle suffix -ing, and pronoun they in fifteenth century London texts, but his work for the Linguistic Atlas of Late Mediaeval English did not support the possibility of an East Anglian or East Midland migration, and he replaced it by hypothesising a migration of people from the Central Midlands, although without historical evidence.  Like Ekwall, Samuels was not dogmatic and presented his work as preliminary.
+
+c.  Types I-IV
+Samuels[17] classified fifteenth century manuscripts into four Types.
+
+These divisions have subsequently proved problematical, partly because Samuels did not specify exactly which manuscripts fall into which class, and partly because other scholars do not see inherent cohesiveness within each Type.  Peikola[52] examining Type 1, (‘Central Midland Standard’) spelling ratios in the orthography of 68 hands who wrote manuscripts of the Later Version of the Wycliffite Bible, concluded: “it is difficult to sustain a ‘grand unifying theory’ about Central Midland Standard”.
+
+Thaisen[53] analysing the orthography of texts forming Type 2 found no consistent similarities between different scribes’ spelling choices and no obvious overlap of selection signalling incipient standardisation, concluding “it is time to lay the types to rest.”
+
+Horobin[54] examining spelling in Type 3 texts reported “such variation warns us against viewing these types of London English as discrete … we must view Samuels’ typology as a linguistic continuum rather than as a series of discrete linguistic varieties”.
+
+d.  Chancery Standard
+Samuels’s Type IV, dating after 1435, was labelled by Samuels ‘Chancery Standard’ because it was supposedly the dialect in which letters from the King’s Office of Chancery supposedly emanated.
+
+John H. Fisher and his collaborators[55][56] asserted that the orthography of a selection of documents including Signet Letters of Henry V, copies of petitions sent to the Court of Chancery, and indentures now kept in The National Archives, constituted what he called “Chancery English”.  This orthographical practice was supposedly created by the government of Henry V, and was supposedly the precursor of Standard English.  However, this assertion attracted strong objections, such as those made by Davis,[57] Haskett,[58] Watts,[59] and Takeda.[60]  Takeda points out that “the language of the documents displays much variation and it is not clear from the collection what exactly ‘Chancery English’ is, linguistically” (for a careful critique of Fisher’s assertions, see Takeda.[60]) For a critique of Fisher’s philological work, see Benskin,[61] who calls his scholarship "uninformed not only philologically but historically".
+
+Dodd[62][63][64] has shown that most letters written by scribes from the Office of Chancery were in Medieval Latin, and that petitions to the Crown shifted from Anglo-Norman French before c.1425 to monolingual English around the middle of the century.  Scribes working for the Crown wrote in Latin, but scribes working for individuals petitioning the king  – it is likely that individuals engaged professionals to write on their behalf, but who these scribes were is not usually known – wrote in French before the first third of the fifteenth century, and after that date in English.  As with mixed-language writing, there followed decades of switching back and forth before the Crown committed to writing in monolingual English, so that the first English royal letter of 1417 did not signal a wholesale switchover.
+
+Latin was still the dominant language in the second half of the fifteenth century.  As Stenroos[25] puts it, “the main change was the reduction in the use of French, and the long-term development was towards more Latin, not less. On the whole, the output of government documents in English continued to be small compared to Latin.”
+
+Vocabulary
+Further information: Comparison of American and British English
+[icon]	
+This section is empty. You can help by adding to it. (May 2017)
+Spelling
+Main article: English orthography
+Further information: American and British English spelling differences
+With rare exceptions, Standard Englishes use either American or British spelling systems, or a mixture of the two (such as in Australian English, Canadian English, and Indian English spelling). British spellings usually dominate in Commonwealth countries.
+
+
+See also
+Standard language
+Comparison of American and British English
+International English
+Internet linguistics
+Modern English
+World Englishes
+Notes
+ Carter, Ronald. "Standard Grammars, Spoken Grammars: Some Educational Implications." T. Bex & R.J. Watts, eds. Standard English: The Widening Debate. Routledge, 1999: 149-166.
+ Trudgill, Peter (1999). Bex & Watts (ed.). Prof. Standard English: the Widening Debate. London: Routledge. pp. 117–128. ISBN 0415191637.
+ Williams, Raymond "Standards", Keywords: A Vocabulary of Culture and Society 2nd Ed. (1983) Oxford UP, pp. 296–299.
+ Smith 1996
+ Sidney Greenbaum; Gerald Nelson (2009). An Introduction to English Grammar. Pearson Longman. p. 3. ISBN 9781405874120.
+ Rodney Huddleston; Geoffrey K. Pullum (2005). A Student's Introduction to English Grammar. Cambridge University Press. pp. 2–3. ISBN 9780521848374.
+ Smith 1996
+ "Oxford Dictionaries Online". Askoxford.com. Retrieved 2013-06-15.
+ Trudgill and Hannah, International English, pp. 1-2.
+ Burridge and Kortmann 2008
+ Mesthrie 2008
+ Earle, John (1879). The Philology of the English Tongue. Oxford: Clarendon Press.
+ Kington-Oliphant, Thomas Laurence (1873). The Sources of Standard English. Macmillan & Co.
+ Morsbach, Lorenz (1888). Über den Ursprung der neuenglischen Schriftsprache. Heilbronn: Henninger.
+ Heuser, Wilhelm (1914). Alt-London mit besonderer Berücksichtigung des Dialekts. Strassburg: Karl J. Trübner.
+ Ekwall, Bror Eilert (1956). Studies on the Population of Medieval London. Stockholm: Almqvist and Wiksell.
+ Samuels, Michael Louis (1963). "Some Applications of Middle English Dialectology". English Studies. 44: 81–94.
+ McIntosh, Angus; Samuels; Benskin. A Linguistic Atlas of Late Mediaeval English. Aberdeen: Aberdeen University Press.
+ Ellegård, Alvar (1953). The Auxiliary Do: The Establishment and Regulation of Its Use in English. Stockholm: Almquist and Wiksell.
+ Nevalainen, Terttu; Raumolin-Brunberg, Helena (1996). Sociolinguistics and language history: Studies based on the Corpus of Early English Correspondence. Amsterdam: Rodopi.
+ Rissanen, Matti (2000). Wright, Laura (ed.). Standardisation and the language of early statutes. Cambridge: Cambridge University Press. pp. 117–130.
+ Thengs, Kjetil V. (2013). English medieval documents of the Northwest Midlands: A study in the language of a real-space text corpus. University of Stavanger, PhD thesis.
+ Schipor, Delia (2018). A Study of Multilingualism in the Late Medieval Material of the Hampshire Record Office. University of Stavanger, PhD thesis.
+ Bergstrøm, Geir (2017). Yeuen at Cavmbrigg’: A Study of the Late Medieval English Documents of Cambridge. University of Stavanger, PhD thesis.
+ Stenroos, Merja (2020). Wright, Laura (ed.). The ‘vernacularisation’ and ‘standardisation’ of local administrative writing in late and post-medieval England. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 39–86.
+ Conde Silvestre, Juan Camilo (2020). Wright, Laura (ed.). Communities of practice, proto-standardisation and spelling focusing in the Stonor Letters. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 443–466.
+ Moreno Olalla, David (2020). Wright, Laura (ed.). Spelling practices in late middle English medical prose: a quantitative analysis. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 141–164.
+ Nevalainen, Terttu (2020). Wright, Laura (ed.). Early mass communication as a standardizing influence? The case of the Book of Common Prayer. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 239–268.
+ Durkin, Philip (2020). Wright, Laura (ed.). The relationship of borrowing from French and Latin in the Middle English period with the development of the lexicon of standard English: some observations and a lot of questions. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 343–364.
+ Sylvester, Louise (2020). Wright, Laura (ed.). The role of multilingualism in the emergence of a technical register in the Middle English period. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 365–380.
+ Romero Barranco, Jesús (2020). Wright, Laura (ed.). A Comparison of Some French and English Nominal Suffixes in Early English Correspondence (1420-1681). The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 467–486.
+ Hernández Campoy, Juan Manuel (2020). Wright, Laura (ed.). versus <þ>: Latin-based influences and social awareness in the Paston letters. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 215–238.
+ Gordon, Moragh (2020). Bristol , <þ> and <y>: the North-South divide revisited, 1400-1700. Berlin: Mouton de Gruyter. pp. 191–214.
+ Kopaczyk, Joanna (2020). Wright, Laura (ed.). Textual standardisation of legal Scots vis a vis Latin. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 487–514.
+ Gneuss, Helmut (1972). "The origin of Standard Old English and Æthelwold's school at Winchester". Anglo-Saxon England. 1: 63–83
+ Kornexl, Lucia (2012). Old English: Standardization. Handbooks of Linguistics and Communication Science. 1 34/1. Berlin: Mouton de Gruyter. pp. 373–385
+ Wright, Laura (2012). Merja Stenroos, Martti Mäkinen and Inge Særheim (ed.). On variation and change in London medieval mixed-language business documents. Language Contact and Development around the North Sea. Amsterdam/Philadelphia: Benjamins. pp. 99–115.
+ Schendl, Herbert; Wright, Laura (2011). Herbert Schendl and Laura Wright (ed.). Code-switching in early English: Historical background and methodological and theoretical issues. Code-switching in Early English. Berlin: Mouton de Gruyter. pp. 15–45.
+ Schendl, Herbert (2020). Wright, Laura (ed.). William Worcester’s Itineraria: mixed-language notes of a medieval traveller. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 317–342.
+ Alcolado Carnicero, José Miguel (2013). Social Networks and Mixed-Language Business Writing: Latin/French/English in the Wardens’ Accounts of the Mercers’ Company of London, 1390–1464. University of Castilla-La Mancha: PhD thesis. p. 217.
+ Nevalainen, Terttu (2000). Ricardo Bermúdez-Otero, David Denison, Richard M. Hogg and Chris McCully (ed.). Processes of supralocalisation and the rise of Standard English in the Early Modern Period. Generative Theory and Corpus Studies. Berlin: Mouton de Gruyter. pp. 329–371.
+ Vandekerckhove, Reinhild (2005). Jurgen Schmidt and Dieter Stellmacher (ed.). Patterns of variation and convergence n the West-Flemish dialects. Akten des I. Kongresses der Internationalen Gesellschaft fur Dialektologie des Deutschen. Stuttgart: Franz Steiner Verlag. p. 548.
+ Wright, Laura (2020). Wright, Laura (ed.). Rising Living Standards, the Demise of Anglo-Norman and Mixed Language Writing, and Standard English. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 515–532.
+ Ingham, Richard (2010). The Transmission of Anglo-Norman. Woodbridge: Boydell. pp. 164–182.
+ Cuesta, Julia Fernández (2014). "The Voice of the Dead: Analyzing Sociolinguistic Variation in Early Modern English Wills and Testaments". Journal of English Linguistics. 42/4: 330–358.
+ Keene, Derek (2000). Galloway, James A. (ed.). Changes in London’s Economic Hinterland as Indicated by Debt Cases in the Court of Common Pleas. Trade, Urban Hinterlands and Market Integration c.1300-1600. 3. London: Centre for Metropolitan History Working Papers Series. pp. 59–82.
+ Kitson, Peter (2004). Marina Dossena and Roger Lass (ed.). On margins of error in placing Old English literary dialects. Methods and data in English historical dialectology. Bern: Peter Lang. pp. 219–239. 71.
+ Jordan, R. (1925). Handbuch der mittelenglischen Grammatik. Heidelberg: Winter.
+ Schaefer, Ursula (2012). Alexander Bergs and Laurel J. Brinton (ed.). Middle English: Standardization. English Historical Linguistics. Handbooks of Linguistics and Communication Science. 1. Berlin: De Gruyter Mouton. pp. 519–533.
+ Beal, Joan C. (2016). Merja Kytö and Päivi Pahta (ed.). Standardization. The Cambridge Handbook of English Historical Linguistics. Cambridge: Cambridge University Press. pp. 301–317.
+ Wright, Laura (2020). Wright, Laura (ed.). A Critical Look at Accounts of How English Standardised. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 17–38.
+ Peikola, Matti (2003). "The Wycliffite Bible and 'Central Midland Standard': Assessing the Manuscript Evidence". Nordic Journal of English Studies. 2, 1: 29-51. 32, 40.
+ Thaisen, Jacob (2020). Wright, Laura (ed.). Standardisation, exemplars, and the Auchinleck manuscript. The Multilingual Origins of Standard English. Berlin: Mouton de Gruyter. pp. 165–190.
+ Horobin, Simon (2003). "The Language of the Chaucer Tradition". Chaucer Studies. 32: 18.
+ Fisher, John H. (1977). "Chancery and the emergence of standard written English in the fifteenth Century". Speculum. 52/4: 870–899.
+ Fisher, John H.; Richardson, Malcolm; Fisher, Jane L. (1984). An Anthology of Chancery English. Knoxville: The University of Tennesee Press.
+ Davis, Norman (1983). E. G. Stanley and D. Gray (ed.). The language of two brothers in the fifteenth century. Five Hundred years of Words and Sounds: a Festschrift for Eric Dobson. Cambridge: D.S. Brewer. pp. 23–28.
+ Haskett, T. (1993). Birks, P. (ed.). Country lawyers? The composers of English Chancery bills. The Life of the Law: Proceedings of the Tenth British Legal History Conference, Oxford 1991. London: Hambledon Press. pp. 9–23.
+ Watts, R.J. (1999). T. Bex and R. J. Watts (ed.). The social construction of Standard English: grammar writers as a ‘discourse community’. Standard English: the Widening Debate. London: Routledge. pp. 40–68
+ Takeda, Reiko (2001). The Question of the ’Standardisation’ of Written English in the Fifteenth Century. University of Leeds: unpublished PhD thesis.
+ Benskin, Michael (2004). Christian Kay, Carole Hough and Irené Wotherspoon (ed.). Chancery Standard. New Perspectives on English Historical Linguistics. Amsterdam: Benjamins. p. 5.
+ Dodd, Gwilym (2011). "The rise of English, the decline of French: supplications to the English Crown, c. 1420-1450". Speculum. 86: 117–146.
+ Dodd, Gwilym (2011). E. Salter and H. Wicker (ed.). The spread of English in the records of central government, 1400-1430. Vernacularity in England and Wales, c. 1300-1550. Turnhout: Brepols. pp. 225–66.
+ Dodd, Gwilym (2012). "Trilingualism in the Medieval English Bureaucracy: The Use—and Disuse—of Languages in the Fifteenth-Century Privy Seal Office". Journal of British Studies. 51 (2): 253–283.
+Bibliography
+Bex, Tony; Richard J. Watts (1999). Standard English: The widening debate. Routledge. ISBN 0-415-19162-9.
+Blake, N. F. 1996. "A History of the English Language" (Basingstoke: Palgrave)
+Burridge, Kate and Bernd Kortmann (eds). 2008. "Varieties of English: vol 3, The Pacific and Australasia" (Berlin and NY: Mouton de Gruyter)
+Coulmas, Florian; Richard J. Watts (2006). Sociolinguistics: The study of speaker's choices. Cambridge: Cambridge University Press. ISBN 0-521-83606-9.
+Crowley, Tony (2003). Standard English and the Politics of Language (2nd ed.). Palgrave Macmillan. ISBN 0-333-99035-8.
+Crystal, David (2006). The Fight for English: How language pundits ate, shot and left. Oxford: Oxford University Press. ISBN 0-19-920764-X.
+Crystal, David. 1997. "A Dictionary of Linguistics and Phonetics" 4th ed. (Oxford: Blackwell)
+Durkin, Philip. "Global English", Oxford English Dictionary, 2007. Accessed 2007-11-07.
+Freeborn, Dennis (2006). From Old English to Standard English: A Course Book in Language Variations Across Time (3rd ed.). Palgrave Macmillan. ISBN 1-4039-9880-9.
+Gorlach, Manfred. 1997. "The Linguistic History of English" (Basingstoke: Macmillan)
+Gramley, Stephan; Kurt-Michael Pätzold (2004). A survey of Modern English. London: Routledge. ISBN 0-415-04957-1.
+Harder, Jayne C., Thomas Sheridan: A Chapter in the Saga of Standard English, American Speech, Vol. 52, No. 1/2 (Spring - Summer, 1977), pp. 65–75.
+Hickey, Raymond (2004). Legacies of Colonial English. Essen University: Cambridge University Press. ISBN 0-521-83020-6.
+Hickey, Raymond (ed.) (2012). Standards of English. Codified Varieties around the World. Cambridge: Cambridge University Press. ISBN 9780521763899.
+Hudson, Richard A. (1996). Sociolinguistics (2nd ed.). Cambridge: Cambridge University Press. ISBN 0-521-56514-6.
+Kortmann, Bernd and Clive Upton (eds). 2008. "Varieties of English: vol 1, The British Isles" (Berlin and NY: Mouton de Gruyter)
+Mesthrie, Rajend (ed). 2008. "Varieties of English: vol 4, Africa, South and Southeast Asia" (Berlin and NY: Mouton de Gruyter)
+Mugglestone, Lynda (2006). The Oxford History of English. Oxford: Oxford University Press. ISBN 0-19-924931-8.
+Schneider, Edgar W. (ed). 2008. "Varieties of English: vol 2, The Americas and the Caribbean" (Berlin and NY: Mouton de Gruyter)
+Smith, Jeremy. 1996. "An Historical Study of English: Function, Form and Change" (London: Routledge)
+Thorne, Sarah. 1997. "Mastering Advanced English Language" (Basingstoke: Macmillan)
+Trudgill, Peter (1999). Bex & Watts (ed.). Prof (PDF). Standard English: the Widening Debate. London: Routledge. pp. 117–128. ISBN 0415191637.
+Wright, Laura (2000). The Development of Standard English, 1300 - 1800: Theories, descriptions, conflicts. Cambridge: Cambridge University Press. ISBN 0-521-77114-5.
+External links
+The Development of Standard English Cambridge University Press
+vte
+Dialects and accents of Modern English by continent
+Europe	
+Great
+Britain	
+England	
+North	
+CheshireCumbria BarrowLancashireLiverpoolManchesterNorthumbria PitmaticSunderlandTynesideYorkshire
+Midlands	
+East MidlandsWest Midlands BirminghamBlack CountryStoke-on-Trent
+South	
+CockneyEast Anglia NorfolkSuffolkMulticultural LondonReceived PronunciationSurreySussexThames EstuaryWest Country CornwallDorset
+Scotland	
+GlasgowHighlands
+Wales	
+AbercrafCardiffGowerPort Talbot
+Ireland	
+DublinSouth-WestUlster
+Channel IslandsContinental EuropeGibraltarIsle of Man
+Americas	
+North
+America	
+Canada	
+AboriginalAtlantic LunenburgNewfoundlandQuebecStandard Central and Western Ottawa ValleyPacific Northwest
+United
+States	
+Mid-Atlantic BaltimorePhiladelphiaMidlandNew England BostonEasternMaineWesternNew York City accentNorth Inland NorthNorth-CentralUpper PeninsulaSouth AppalachiaHigh TiderNew OrleansOlderTexasWest CaliforniaNew MexicoPacific NorthwestWestern Pennsylvania
+Ethno-cultural	
+African-American VernacularAmerican IndianCajunChicanoGeneral AmericanMiami LatinoNew York LatinoPennsylvania DutchYeshiva
+Caribbean	
+The BahamasBarbadosCayman Islands Bay IslandsJamaicaPuerto RicoSamaná, Dominican RepublicTrinidad and Tobago
+BermudaFalkland Islands
+Oceania	
+Australia	
+AboriginalAccent broad, general and cultivatedSouth AustraliaTorres StraitWestern Australia
+FijiNew ZealandPalauSolomon Islands
+Africa	
+CameroonThe GambiaGhanaKenyaLiberiaMalawiNamibiaNigeriaSierra LeoneSouth Africa accentCape FlatsSouth AtlanticUgandaZimbabwe
+Asia	
+BangladeshBruneiHong KongIndia regional and occupationalMalaysiaMyanmarNepalPakistanPhilippinesSingaporeSri Lanka
+Related	
+English languageAmerican and British English differencesAnglishBasicE-PrimeEngrishEnglish as a lingua francaGlobishInternationalMid-AtlanticNon-native pronunciations of EnglishPidginPlainSpecialStandard
+Categories: Standard EnglishEnglish languageEnglish as a global languageStandard languages
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView historySearch
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+
+Languages
+العربية
+فارسی
+Français
+Norsk bokmål
+Polski
+Русский
+Tiếng Việt
+中文
+Edit links
+This page was last edited on 9 January 2021, at 14:41 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki

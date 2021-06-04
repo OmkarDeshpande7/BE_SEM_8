@@ -1,0 +1,103 @@
+<html>
+  <head>
+    <script src="angular.min.js"></script>
+    <style type="text/css">
+      body {
+        background-image: url(./assets/bg4.png);
+      }
+      th {
+        text-align: left;
+      }
+
+      td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 1%;
+        width: 10%;
+      }
+      select,
+      input {
+        width: 20%;
+        padding-right: 2%;
+        margin-bottom: 20px;
+      }
+      table {
+        margin-top: 2%;
+      }
+      h2 {
+        padding-top: 3%;
+        font-size: 3vw;
+        font-family: cursive;
+      }
+      button {
+        padding: 5px;
+        color: white;
+        background-color: blue;
+      }
+      th {
+        width: 30%;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Welcome to purchase course</h2>
+    <table style="width: 67%">
+      <th>Course name</th>
+      <th>No of hours</th>
+      <th>Cost per hour</th>
+      <th>Total</th>
+    </table>
+    <div ng-app="myapp" ng-controller="CartForm">
+      <select id="course" ng:model="item.description" name="cars">
+        <option value="Artificial Intelligence">Artificial Intelligence</option>
+        <option value="Android">Android</option>
+        <option value="DBMS" selected="selected">DBMS</option>
+        <option value="Web-Development">Web-Development</option>
+        <option value="Accounting">Accounting</option>
+        <option value="Banking">Banking</option>
+        <option value="Mathematics">Mathematics</option>
+        <option value="Share-market">Share-market</option>
+        <option value="Biology">Biology</option>
+        <option value="Chemistry">Chemistry</option>
+        <option value="Physics">Physics</option>
+      </select>
+
+      <input type="number" id="qty" ng:model="item.qty" ng:required />
+
+      <input type="number" id="cost" ng:model="item.cost" ng:required />
+      {{item.qty * item.cost | currency:'Rs '}}
+      <br />
+      <a href ng:click="addItem()"><button>Add</button></a>
+
+      <table class="table" style="width: 80%">
+        <tr style="align-items: flex-start">
+          <th>Course name</th>
+          <th>No of hours</th>
+          <th>Cost per hour</th>
+          <th>Total</th>
+          <th></th>
+        </tr>
+        <tr ng:repeat="item in cart.items">
+          <td>
+            <p>{{item.description}}</p>
+          </td>
+          <td>
+            <p type="number" ng:model="item.qty" ng:required>{{item.qty}}</p>
+          </td>
+          <td>
+            <p type="number" ng:model="item.cost" ng:required>{{item.cost}}</p>
+          </td>
+          <td>{{item.qty * item.cost | currency:'Rs '}}</td>
+          <td>[<a href ng:click="removeItem($index)">remove</a>]</td>
+        </tr>
+        <tr>
+          <td colspan="2"></td>
+          <td>Total:</td>
+          <td>{{total() | currency:'Rs '}}</td>
+        </tr>
+        <tr></tr>
+      </table>
+    </div>
+    <script src="purchase_cart.js"></script>
+  </body>
+</html>

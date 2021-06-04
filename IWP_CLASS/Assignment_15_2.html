@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JS Example</title>
+        <style>
+            .in{
+                margin: 1vw;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <h1>Roll No : 43212</h1>
+            <form>
+            <label for="name">Name : </label>
+            <input class="in" id="name" type="text"><br>
+            <label for="email">Email : </label>
+            <input class="in" id="email" type="email"><br>
+            <label for="phone">Phone No : </label>
+            <input class="in" id="phone" type="text"><br>
+            <input type="submit" onclick="handleonclick()" name="" id="">
+        </form>
+        </div>
+    </body>
+    <script type="text/javascript">
+    
+
+    function handleonclick(){
+        var name = document.getElementById("name").value;
+        var email = document.getElementById("email").value;
+        var phone = document.getElementById("phone").value;
+        var regName = /^([A-Za-z\-\. ])+$/;
+        var regEmail = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+        var regPhone = /^\d{10}$/;
+        var str = "";
+        if (regName.test(name) == false) {
+                str = str + "Invalid name !\n";
+            }
+        if (regEmail.test(email) == false) {
+            str = str + "Invalid email !\n";
+        }
+        if (regPhone.test(phone) == false) {
+            str = str + "Invalid phone !\n";
+        }
+        if(str == "")
+        alert("All OK !");
+        else
+        alert(str);
+    }
+    </script>
+</html>

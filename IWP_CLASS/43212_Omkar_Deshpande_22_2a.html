@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body id="1" style="background-color: white;">
+        <h1>Roll No : 43212 </h1>
+        <h2>background-color changes to red in 3 sec</h2>
+    </body>
+    <script>
+        function callback(){
+            setTimeout(
+                () => {
+                    document.getElementById("1").style.backgroundColor = "red";
+                },3000)
+        }
+        callback();
+    </script>
+</html>

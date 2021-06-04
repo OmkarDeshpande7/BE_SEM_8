@@ -1,0 +1,9 @@
+module SumApp
+{
+	interface Sum
+	{
+		exception DivisionByZero {};
+
+		float sum(in float a, in float b);
+	};
+};

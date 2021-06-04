@@ -1,0 +1,36 @@
+button:not(#prevbtn){
+	border: black 2px ridge; 
+	font-weight: bolder; 
+	color: white; 
+	width: 15%;
+	height: 200px;
+	margin-top: 20px;
+	font-size: 30px;
+}
+img:hover{
+    transition: 0.5s;
+    transform: rotate(360deg);
+}
+img {
+	transition: 0.2s;
+}
+body {
+	background-image: url(../assets/bg4.png); 
+}
+
+.course {
+    background-size: cover;margin-left: 20px;
+}
+h1{
+    font-family: cursive;color: black; font-size: 3vw;  align-content: center; align-self: center;float: right;padding-right: 20%;
+}
+
+#prevbtn {
+    width: 200px;height: 60px;margin-top: 8vw;
+}
+button:hover{
+    opacity: 1;
+       transition: .2s;
+    transform: scale(1.2);
+}
+

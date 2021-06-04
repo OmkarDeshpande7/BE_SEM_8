@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Introduction</title>
+<style type="text/css">
+img:hover{
+    transition: 0.5s;
+    transform: rotate(360deg);
+}
+img {
+	transition: 0.2s;
+}
+body {
+    background-image: url(./assets/bg4.png);
+}
+.div1 {
+	width: 100%; height: 50%;
+}
+.sub1 {
+	padding-left: 4%; float: left;width: 20%;
+}
+h1 {
+	padding-top: 3%; font-size: 3vw;font-family: cursive;
+}
+.dropdown{
+	padding-top: 20px;
+	position: relative;
+  	
+}
+.subdiv2 {
+	width: 25%;height: 100%; align-self: start; float: left;
+}
+a {
+	font-size : 2vw; padding-bottom: 1vw; text-decoration: none; cursor: default;
+}
+h6 {
+	text-decoration: none;
+	font-size: 1vw;
+}
+.drop {
+	display: none;
+	position: relative;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 12px 16px;
+	z-index: 1;
+}
+/* .arrow-up:active ~ .drop {
+	display:block;
+} */
+p {
+	align-content: justify; justify-self:start ;font-size: 2vw;padding-left: 30px;float: left; font-family: cursive;
+}
+
+.arrow-up {
+  width: 0; 
+  height: 0; 
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  float: right;
+  padding-top: 10px;
+  border-top: 5px solid black;
+}
+button{
+	margin: 4%; 
+	padding: 20px; 
+	float: right;
+	color: white;
+	background-color: blue;
+}
+</style>
+</head>
+<body>
+	<div style="background-color:rgba(248, 232, 202, 0.534) ;overflow: auto;height: 100%;">
+		<div>
+			<div class="sub1">
+				<img  width="150"  height="150" src="assets/logo.png">
+			</div>
+			<h1 style="float: left; width: 60%; ">Welcome To Easy Learning Studio</h1>
+			<button onclick="location.href = 'login.php';">Sign In</button>
+			<br>
+
+		</div>
+		<div style="padding-top: 2vw; ">
+			<div class="subdiv2">
+				
+				<ol style="font-size: 2vw; ">
+					<h2>Categories</h2>
+					<li class="dropdown"><a  href="Engineering.html">Engineering</a><div id="1" class="arrow-up"></div>
+						<div id="11" class="drop">
+						<ol>
+							<li>AI</li>
+							<li>Android</li>
+							<li>dbms</li>
+							<li>Web-Dev</li>
+						</ol>
+					</div><br></li>
+					
+				
+					<li class="dropdown"><a  href="Science.html">Science and Technology</a><div id="2" class="arrow-up"></div>
+						<div id="22" class="drop">
+						<ol>
+							<li>biology</li>
+							<li>Chemistry</li>
+							<li>Mathematics</li>
+							<li>Physics</li>
+						</ol>
+					</div><br></li>
+					
+				
+					<li class="dropdown"><a  href="Finance.html">Finances</a><div id="3" class="arrow-up"></div>
+						<div id="33" class="drop" >
+						<ol>
+							<li>Accounting</li>
+							<li>Banking</li>
+							<li>Mathematics</li>
+							<li>Share-market</li>
+						</ol>
+					</div><br></li>
+					
+				
+				</ol>
+			</div>
+			<div style=" width: 70%; align-self:end; float: right;">
+				<p>
+				Easy Learning provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.
+				Comprehensive learning programs for people with any age.
+				Build skills with courses, certificates, and degrees online from world-class universities and companies.
+				</p><br>
+
+			</div>
+			
+		</div>
+		
+	</div>
+
+</body>
+<script>
+	document.getElementById("1").onclick = function(){
+		const status = document.getElementById("11").style.display;
+		if(status=="none")
+		document.getElementById("11").style.display = "block";
+		else
+		document.getElementById("11").style.display = "none";
+	}
+	document.getElementById("2").onclick = function(){
+		const status = document.getElementById("22").style.display;
+		if(status=="none")
+		document.getElementById("22").style.display = "block";
+		else
+		document.getElementById("22").style.display = "none";
+	}
+	document.getElementById("3").onclick = function(){
+		const status = document.getElementById("33").style.display;
+		if(status=="none")
+		document.getElementById("33").style.display = "block";
+		else
+		document.getElementById("33").style.display = "none";
+	}
+</script>
+</html>

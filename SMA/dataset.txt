@@ -1,0 +1,33 @@
+Name - Omkar Umesh Deshpande
+Roll no - 43212
+Class - BE-10
+
+
+
+Dataset Name - LIAR
+	description  - 	id: unique id for a news article
+			title: the title of a news article
+			author: author of the news article
+			text: the text of the article; could be incomplete
+			label: a label that marks the article as potentially unreliable
+				1: unreliable
+				0: reliable
+	size - 23.98 mb
+	source - Kaggle
+
+Dataset name - FakeNewsNet
+	description - the dataset contains four files mainly
+		politifact_fake.csv - Samples related to fake news collected from PolitiFact
+		politifact_real.csv - Samples related to real news collected from PolitiFact
+		gossipcop_fake.csv - Samples related to fake news collected from GossipCop
+		gossipcop_real.csv - Samples related to real news collected from GossipCop
+
+	Each of the above CSV files is comma separated file and have the following columns
+		id - Unique identifider for each news
+		url - Url of the article from web that published that news
+		title - Title of the news article
+		tweet_ids - Tweet ids of tweets sharing the news. This field is list of tweet ids separated by tab.
+
+	size - 45mb (approx.)
+	source - Github
+	details - dataset is mainly depend upon twitter
