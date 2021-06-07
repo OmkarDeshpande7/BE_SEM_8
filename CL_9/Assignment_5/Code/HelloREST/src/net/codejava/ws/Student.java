@@ -34,7 +34,7 @@ public class Student {
     		Class.forName("com.mysql.cj.jdbc.Driver");  
     		Connection con=DriverManager.getConnection(  
     		"jdbc:mysql://localhost:3306/assignment_login","root","123456");  
-    		//here sonoo is database name, root is username and password  
+    		//here assignment_login is database name, root is username and password  
     		Statement stmt=con.createStatement();  
     		ResultSet rs=stmt.executeQuery("select * from students;");  
     		while(rs.next())

@@ -25,12 +25,12 @@ public class Bully
             }
             for (i = up+1; i <= 5; i++) 
             {
-                System.out.println("ELECTION MESSAGE SENT FROM PROCESS " + up + "TO PROCESS " + i );
+                System.out.println("ELECTION MESSAGE SENT FROM PROCESS " + up + " TO PROCESS " + i );
             }
             for (i = 5; i >= up; i--) 
             {
                 if (!state[i - 1]) continue;
-                System.out.println("ALIVE MESSAGE SENT FROM PROCESS " + i + "TO PROCESS" + up);
+                System.out.println("ALIVE MESSAGE SENT FROM PROCESS " + i + " TO PROCESS" + up);
                 break;
             }
         }
@@ -79,7 +79,7 @@ public class Bully
         } 
         else 
         {
-            System.out.println("Prccess" + mess + "is down");
+            System.out.println("Prccess " + mess + " is down");
             Bully.up(mess);
         }
     }

@@ -47,7 +47,7 @@ public class Ring{
 		System.out.println("Process "+ (processes[getMax()].id + 1) + " is Leader.");
 		System.out.println("Assume Process no " + (processes[getMax()].id + 1) +" fails");
 		processes[getMax()].active=false;
-		System.out.println("Enter Election Initiated by process : ");
+		System.out.println("Enter Election Initiated by which process : ");
 		int initiatorProcesss=sc.nextInt();
 
 		int prev = initiatorProcesss-1;

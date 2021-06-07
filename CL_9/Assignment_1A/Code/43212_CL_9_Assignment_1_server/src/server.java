@@ -7,12 +7,12 @@ public class server
   {                           // establishing the connection with the server
      ServerSocket sersock = new ServerSocket(4000);
      System.out.println("Server ready for connection");
-     Socket sock = sersock.accept();            // binding with port: 4000
+     Socket sock = sersock.accept();           
      System.out.println("Connection is successful and wating for filename : ");
                                                                                                  
                                // reading the file name from client
      InputStream istream = sock.getInputStream( );
-     BufferedReader fileRead =new BufferedReader(new InputStreamReader(istream));
+     BufferedReader fileRead = new BufferedReader(new InputStreamReader(istream));
      String fname = fileRead.readLine( );
      
      File obj = new File(fname);
